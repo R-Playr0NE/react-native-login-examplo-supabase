@@ -40,6 +40,11 @@ git clone https://github.com/SEU_USUARIO/react-native-supabase-auth.git
 ```bash
 cd app-supabase
 ```
+### Baixar dependencias
+
+...bash
+    npm install
+...
 
 ## 🎯 Objetivo
 
