@@ -42,9 +42,9 @@ cd app-supabase
 ```
 ### Baixar dependencias
 
-...bash
+```bash
     npm install
-...
+```
 
 ## 🎯 Objetivo
 
